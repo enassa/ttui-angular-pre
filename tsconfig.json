@@ -5,7 +5,7 @@
     "baseUrl": "./",
     "paths": {
       "components": ["dist/components"],
-      "ttui/*": ["./projects/components/src/lib/*/public_api"]
+      "ttui/*": ["./projects/components/src/lib/*/public-api"]
     },
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
